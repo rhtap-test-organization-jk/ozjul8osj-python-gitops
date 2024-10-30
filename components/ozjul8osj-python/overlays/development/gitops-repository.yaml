@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ozjul8osj-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/ozjul8osj-python-gitops
